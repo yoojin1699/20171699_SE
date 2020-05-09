@@ -26,9 +26,9 @@
 								"$ref": "AAAAAAFx+bkKF5++B7w="
 							},
 							"font": "Arial;13;0",
-							"left": 176,
-							"top": 184,
-							"width": 625,
+							"left": 168,
+							"top": 176,
+							"width": 577,
 							"height": 409
 						},
 						{
@@ -58,9 +58,9 @@
 												"$ref": "AAAAAAFx+h7hEvlLjVo="
 											},
 											"font": "Arial;13;0",
-											"left": 181,
-											"top": 117,
-											"width": 111.2236328125,
+											"left": 173,
+											"top": 109,
+											"width": 113.140625,
 											"height": 13,
 											"text": "«system»"
 										},
@@ -71,9 +71,9 @@
 												"$ref": "AAAAAAFx+h7hEvlLjVo="
 											},
 											"font": "Arial;13;1",
-											"left": 181,
-											"top": 132,
-											"width": 111.2236328125,
+											"left": 173,
+											"top": 124,
+											"width": 113.140625,
 											"height": 13,
 											"underline": true,
 											"text": "온라인 쇼핑 시스템"
@@ -86,9 +86,9 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 82,
-											"top": 50,
-											"width": 73.67724609375,
+											"left": 66,
+											"top": 34,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -100,16 +100,16 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 82,
-											"top": 50,
+											"left": 66,
+											"top": 34,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 176,
-									"top": 112,
-									"width": 121.2236328125,
+									"left": 168,
+									"top": 104,
+									"width": 123.140625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+h7hEvlMOBA="
@@ -135,8 +135,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 41,
-									"top": 25,
+									"left": 33,
+									"top": 17,
 									"width": 10,
 									"height": 10
 								}
@@ -144,9 +144,9 @@
 							"font": "Arial;13;0",
 							"showShadow": false,
 							"containerChangeable": true,
-							"left": 176,
-							"top": 112,
-							"width": 121.2236328125,
+							"left": 168,
+							"top": 104,
+							"width": 123.140625,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+h7hEvlLjVo="
@@ -184,7 +184,7 @@
 											"font": "Arial;13;0",
 											"left": 221,
 											"top": 373,
-											"width": 120.61181640625,
+											"width": 121.5703125,
 											"height": 13,
 											"text": "«user interface»"
 										},
@@ -197,7 +197,7 @@
 											"font": "Arial;13;1",
 											"left": 221,
 											"top": 388,
-											"width": 120.61181640625,
+											"width": 121.5703125,
 											"height": 13,
 											"underline": true,
 											"text": "공급업자 인터페이스"
@@ -212,7 +212,7 @@
 											"font": "Arial;13;0",
 											"left": 68,
 											"top": -26,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -233,7 +233,7 @@
 									"font": "Arial;13;0",
 									"left": 216,
 									"top": 368,
-									"width": 130.61181640625,
+									"width": 131.5703125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+iCeq/o2PGI="
@@ -269,7 +269,7 @@
 							"containerChangeable": true,
 							"left": 216,
 							"top": 368,
-							"width": 130.61181640625,
+							"width": 131.5703125,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+iCeq/o1Coo="
@@ -335,7 +335,7 @@
 											"font": "Arial;13;0",
 											"left": -370,
 											"top": 42,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -458,7 +458,7 @@
 											"font": "Arial;13;0",
 											"left": 128,
 											"top": 64,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -581,7 +581,7 @@
 											"font": "Arial;13;0",
 											"left": 128,
 											"top": 96,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -704,7 +704,7 @@
 											"font": "Arial;13;0",
 											"left": 160,
 											"top": 96,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -827,7 +827,7 @@
 											"font": "Arial;13;0",
 											"left": -256,
 											"top": 32,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -950,7 +950,7 @@
 											"font": "Arial;13;0",
 											"left": 64,
 											"top": 32,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1045,9 +1045,9 @@
 											"font": "Arial;13;0",
 											"left": 541,
 											"top": 301,
-											"width": 199,
+											"width": 143,
 											"height": 13,
-											"text": "«business logic»"
+											"text": "«service logic»"
 										},
 										{
 											"_type": "LabelView",
@@ -1058,10 +1058,10 @@
 											"font": "Arial;13;1",
 											"left": 541,
 											"top": 316,
-											"width": 199,
+											"width": 143,
 											"height": 13,
 											"underline": true,
-											"text": "카탈로그 검색 트랜잭션 관리자"
+											"text": "카탈로그 검색 서비스"
 										},
 										{
 											"_type": "LabelView",
@@ -1073,7 +1073,7 @@
 											"font": "Arial;13;0",
 											"left": -16,
 											"top": -48,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1094,7 +1094,7 @@
 									"font": "Arial;13;0",
 									"left": 536,
 									"top": 296,
-									"width": 209,
+									"width": 153,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+jjGlvuasQM="
@@ -1130,7 +1130,7 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 296,
-							"width": 209,
+							"width": 153,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+jjGlvuZY6k="
@@ -1168,9 +1168,9 @@
 											"font": "Arial;13;0",
 											"left": 541,
 											"top": 373,
-											"width": 199,
+											"width": 143,
 											"height": 13,
-											"text": "«business logic»"
+											"text": "«service logic»"
 										},
 										{
 											"_type": "LabelView",
@@ -1181,10 +1181,10 @@
 											"font": "Arial;13;1",
 											"left": 541,
 											"top": 388,
-											"width": 199,
+											"width": 143,
 											"height": 13,
 											"underline": true,
-											"text": "주문 요청 트랜잭션 관리자"
+											"text": "주문 요청 서비스"
 										},
 										{
 											"_type": "LabelView",
@@ -1196,7 +1196,7 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": -48,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1217,7 +1217,7 @@
 									"font": "Arial;13;0",
 									"left": 536,
 									"top": 368,
-									"width": 209,
+									"width": 153,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+jlQIvu6FM0="
@@ -1253,7 +1253,7 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 368,
-							"width": 209,
+							"width": 153,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+jlQIvu5Tb0="
@@ -1291,9 +1291,9 @@
 											"font": "Arial;13;0",
 											"left": 541,
 											"top": 445,
-											"width": 199,
+											"width": 143,
 											"height": 13,
-											"text": "«business logic»"
+											"text": "«service logic»"
 										},
 										{
 											"_type": "LabelView",
@@ -1304,10 +1304,10 @@
 											"font": "Arial;13;1",
 											"left": 541,
 											"top": 460,
-											"width": 199,
+											"width": 143,
 											"height": 13,
 											"underline": true,
-											"text": "주문 처리 트랜잭션 관리자"
+											"text": "주문 처리 서비스"
 										},
 										{
 											"_type": "LabelView",
@@ -1319,7 +1319,7 @@
 											"font": "Arial;13;0",
 											"left": -16,
 											"top": 16,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1340,7 +1340,7 @@
 									"font": "Arial;13;0",
 									"left": 536,
 									"top": 440,
-									"width": 209,
+									"width": 153,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+jm8EPvaa+M="
@@ -1376,7 +1376,7 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 440,
-							"width": 209,
+							"width": 153,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+jm8EPvZUP8="
@@ -1414,9 +1414,9 @@
 											"font": "Arial;13;0",
 											"left": 541,
 											"top": 517,
-											"width": 200.05908203125,
+											"width": 144.447265625,
 											"height": 13,
-											"text": "«business logic»"
+											"text": "«service logic»"
 										},
 										{
 											"_type": "LabelView",
@@ -1427,10 +1427,10 @@
 											"font": "Arial;13;1",
 											"left": 541,
 											"top": 532,
-											"width": 200.05908203125,
+											"width": 144.447265625,
 											"height": 13,
 											"underline": true,
-											"text": "배송 확인 및 청구 트랜잭션 관리자"
+											"text": "배송 확인 및 청구 서비스"
 										},
 										{
 											"_type": "LabelView",
@@ -1442,7 +1442,7 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": 32,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1463,7 +1463,7 @@
 									"font": "Arial;13;0",
 									"left": 536,
 									"top": 512,
-									"width": 210.05908203125,
+									"width": 154.447265625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+joMBPv5pds="
@@ -1499,7 +1499,7 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 512,
-							"width": 210.05908203125,
+							"width": 154.447265625,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+joMBPv47g4="
@@ -1588,8 +1588,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "카탈로그 검색 트랜잭션 관리자",
-					"stereotype": "business logic"
+					"name": "카탈로그 검색 서비스",
+					"stereotype": "service logic"
 				},
 				{
 					"_type": "UMLObject",
@@ -1597,8 +1597,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "주문 요청 트랜잭션 관리자",
-					"stereotype": "business logic"
+					"name": "주문 요청 서비스",
+					"stereotype": "service logic"
 				},
 				{
 					"_type": "UMLObject",
@@ -1606,8 +1606,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "주문 처리 트랜잭션 관리자",
-					"stereotype": "business logic"
+					"name": "주문 처리 서비스",
+					"stereotype": "service logic"
 				},
 				{
 					"_type": "UMLObject",
@@ -1615,8 +1615,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "배송 확인 및 청구 트랜잭션 관리자",
-					"stereotype": "business logic"
+					"name": "배송 확인 및 청구 서비스",
+					"stereotype": "service logic"
 				}
 			]
 		}
