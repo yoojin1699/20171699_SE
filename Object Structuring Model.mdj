@@ -1414,7 +1414,7 @@
 											"font": "Arial;13;0",
 											"left": 725,
 											"top": 373,
-											"width": 148.05908203125,
+											"width": 152.8515625,
 											"height": 13,
 											"text": "«service logic»"
 										},
@@ -1427,7 +1427,7 @@
 											"font": "Arial;13;1",
 											"left": 725,
 											"top": 388,
-											"width": 148.05908203125,
+											"width": 152.8515625,
 											"height": 13,
 											"underline": true,
 											"text": "배송 확인 및  알림 서비스"
@@ -1463,7 +1463,7 @@
 									"font": "Arial;13;0",
 									"left": 720,
 									"top": 368,
-									"width": 158.05908203125,
+									"width": 162.8515625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFx+joMBPv5pds="
@@ -1499,7 +1499,7 @@
 							"containerChangeable": true,
 							"left": 720,
 							"top": 368,
-							"width": 158.05908203125,
+							"width": 162.8515625,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFx+joMBPv47g4="
@@ -1565,7 +1565,7 @@
 											"font": "Arial;13;0",
 											"left": -368,
 											"top": 112,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1688,7 +1688,7 @@
 											"font": "Arial;13;0",
 											"left": -368,
 											"top": 128,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1799,7 +1799,7 @@
 											"width": 151,
 											"height": 13,
 											"underline": true,
-											"text": "금액 청구 서비스"
+											"text": "비용 청구 서비스"
 										},
 										{
 											"_type": "LabelView",
@@ -1810,7 +1810,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 16,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -2008,7 +2008,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "금액 청구 서비스",
+					"name": "비용 청구 서비스",
 					"stereotype": "service logic"
 				}
 			]
